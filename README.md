@@ -1,16 +1,22 @@
-## Hi there 👋
+## Olá! 👋 Seja bem-vindo ao meu GitHub!
 
-<!--
-**isaac-smc/Isaac-smc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo **Isaac Souza Mendes Costa**, sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia, sempre em busca de novos aprendizados.
 
-Here are some ideas to get you started:
+📌 **Atualmente focado em:**
+- CloudOps e infraestrutura em nuvem (AWS, GCP, Azure)
+- Automação com Ansible e scripts em Python
+- Kubernetes e containers
+- Desenvolvimento de projetos práticos para reforçar o conhecimento técnico
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 **Projetos em destaque:**
+- 🔐 Validador de senhas fortes em Python
+- 📦 Verificador de pacotes e serviços com Ansible
+- ☁️ Deploy de aplicação web no Kubernetes
+
+🎓 Estudando e aplicando tudo o que aprendo com projetos reais — tudo documentado por aqui!
+
+📫 Me encontre também no LinkedIn:  
+[linkedin.com/in/isaacsmc](https://www.linkedin.com/in/isaacsmc)
+
+🚀 Obrigado por visitar meu perfil!
+
