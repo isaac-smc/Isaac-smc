@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://i.postimg.cc/NFWBR6zh/mario-1.gif" width="200" alt="Super Mario animado" />
+</p>
+
+
 <h2 align="center">🚀 Bem-vindo ao meu perfil GitHub!</h2>
 
 <p align="center">
