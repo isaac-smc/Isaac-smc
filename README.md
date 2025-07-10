@@ -20,3 +20,6 @@ Me chamo **Isaac Souza Mendes Costa**, sou estudante de **Análise e Desenvolvim
 
 🚀 Obrigado por visitar meu perfil!
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/isaac-smc/isaac-smc/main/assets/mario-super-mario.gif" alt="Super Mario" width="200" />
+</p>
