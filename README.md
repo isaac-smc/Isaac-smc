@@ -1,9 +1,8 @@
-## Olá! 👋 Seja bem-vindo ao meu GitHub!
-
 <p align="center">
   <img src="https://github.com/isaac-smc/isaac-smc/blob/main/ativos/mario-super-mario.gif?raw=true" width="200" alt="Super Mario animado" />
 </p>
 
+## Olá! 👋 Seja bem-vindo ao meu GitHub!
 
 Me chamo **Isaac Souza Mendes Costa**, sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia, sempre em busca de novos aprendizados.
 
@@ -24,7 +23,3 @@ Me chamo **Isaac Souza Mendes Costa**, sou estudante de **Análise e Desenvolvim
 [linkedin.com/in/isaacsmc](https://www.linkedin.com/in/isaacsmc)
 
 🚀 Obrigado por visitar meu perfil!
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/isaac-smc/isaac-smc/main/assets/mario-super-mario.gif" alt="Super Mario" width="200" />
-</p>
